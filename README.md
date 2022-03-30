@@ -97,4 +97,8 @@ Canaliza los 5 comandos del ejercicio 1 en "Out-GridView"
 5. Get-NetIPAddress
 ![GetIP-grid](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Net-Grid.png)
 
+## Ejercicio 10
 
+Encuentra el sitio web oficial de documentacion de Powershell
+
+[Enlace documentacion powershell](https://docs.microsoft.com/es-es/powershell/)
