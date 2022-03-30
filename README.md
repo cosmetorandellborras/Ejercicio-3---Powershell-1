@@ -101,4 +101,4 @@ Canaliza los 5 comandos del ejercicio 1 en "Out-GridView"
 
 Encuentra el sitio web oficial de documentacion de Powershell
 
-[Enlace documentacion powershell](https://docs.microsoft.com/es-es/powershell/)
+[Enlace documentacion powershell en español](https://docs.microsoft.com/es-es/powershell/)
