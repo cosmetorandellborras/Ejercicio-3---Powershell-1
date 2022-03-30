@@ -53,3 +53,48 @@ Crea un nuevo archivo de texto llamado "TestFile.txt"
 Rellena el archivo de texto creado en el anterior ejercicio con los tres siguientes tipos de datos "String", "Boolean", "int"
 
 ![Add-Content](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/add-content.png)
+
+## Ejercicio 5
+
+Lee el texto del archivo "TestFile" y usa Get-Member para saber el tipo de datos retornado
+
+![Get-Member](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Get-Member.png)
+
+## Ejercicio 6
+
+Sobreescribe todos los datos del archivo "TestFile"
+
+![Set-Content](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Set-Content.png)
+
+## Ejercicio 7
+
+Dar formato a los datos devueltos por un cmdlet en una lista
+
+![Get-Service](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Get-Service.png)
+
+## Ejercicio 8
+
+Canaliza "Get-Command" en "Out-GridView"
+
+![Get-Command](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Get-Command.png)
+
+## Ejercicio 9
+
+Canaliza los 5 comandos del ejercicio 1 en "Out-GridView"
+
+1. Get-ChildItem
+![Child-grid](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Child-grid.png)
+
+2. Get-Location
+![Location-grid](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Location-grid.png)
+
+3. New-Item
+![NItem-grid](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/NewItem-grid.png)
+
+4. Copy-Item
+![Copy-grid](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Copy-Grid.png)
+
+5. Get-NetIPAddress
+![GetIP-grid](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/Net-Grid.png)
+
+
