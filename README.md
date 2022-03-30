@@ -49,3 +49,7 @@ Crea un nuevo archivo de texto llamado "TestFile.txt"
 
 ![TestFile.txt](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/testfile1.png)
 
+## Ejercicio 4
+Rellena el archivo de texto creado en el anterior ejercicio con los tres siguientes tipos de datos "String", "Boolean", "int"
+
+![Add-Content](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/add-content.png)
