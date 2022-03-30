@@ -47,5 +47,5 @@ Usa el cmdlet "Get-Help" con el parámetro "-Example" con los anteriores cmdlets
 ## Ejercicio 3
 Crea un nuevo archivo de texto llamado "TestFile.txt"
 
-
+![TestFile.txt](https://github.com/cosmetorandellborras/Ejercicio-3---Powershell-1/blob/main/testfile1.png)
 
